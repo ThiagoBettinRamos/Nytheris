@@ -1,0 +1,6 @@
+displayName = Nytheris Mod
+author = thiagobettin
+version = 1.0.0
+description = Um poderoso boss que desafia até os mais fortes.
+homepage = https://seusite.com
+include = Content/NPCs/NytherisHeadBoss.png

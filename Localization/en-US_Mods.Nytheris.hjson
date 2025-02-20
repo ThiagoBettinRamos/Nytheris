@@ -1,0 +1,19 @@
+Mods: {
+  NytherisMod: {
+    Items: {
+      NytherisSummonItem: {
+        DisplayName: "Void Crystal",
+        Tooltip: "Um cristal pulsante que invoca Nytheris"
+      }
+    },
+    NPCs: {
+      Nytheris: {
+        DisplayName: "Nytheris, Conquistador do Vazio",
+        Bestiary: {
+          Header: "Nytheris, o Conquistador do Vazio",
+          Description: "Nytheris, o Conquistador do Vazio, desafia até os mais fortes. Dizem que seu poder rivaliza o próprio Moon Lord."
+        }
+      }
+    }
+  }
+}

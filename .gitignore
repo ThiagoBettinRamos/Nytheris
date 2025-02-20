@@ -1,0 +1,12 @@
+# Ignorar binários e arquivos temporários
+bin/
+obj/
+*.tmp
+*.bak
+*.swp
+*.suo
+*.user
+*.log
+
+# Ignorar compilados do tModLoader
+*.tmod
